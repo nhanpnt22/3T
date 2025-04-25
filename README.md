@@ -1,2 +1,35 @@
-# 3T
-3T (Transformer Emergence Equation)
+# 3T (Transformer Emergence Equation)
+
+**Author:** Brian Pham/Phạm Ngọc Thanh Nhân  
+**Contact:** nhanpnt22@gmail.com and thanhnhan@vietta.vn  
+**Version:** 1.0.0  
+**Release Date:** April 25, 2025  
+**License:** Dual-licensed: CC BY-NC-SA 4.0 (non-commercial) and Commercial License
+
+## Overview
+
+The **3T (Transformer Emergence Equation)** defines how the transformer (C) emerges from the summed tensor product of elements A and B:
+
+```
+C = ∑[B⊗A]
+```
+
+This model provides a new theoretical framework for understanding how mediating elements arise from the dynamic interaction of two primary elements, with applications across complex systems, engineering, and interdisciplinary research.
+
+## Files
+
+- `theory/3C.md` — Main theory and formulation
+- `LICENSE` — License information
+
+## License
+
+- **Non-commercial, educational, and individual use:**  
+  Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+- **Commercial use:**  
+  Requires a paid license. See `LICENSE` for details or contact the author.
+
+## Contact
+
+For questions or commercial licensing, contact:  
+- nhanpnt22@gmail.com  
+- thanhnhan@vietta.vn
