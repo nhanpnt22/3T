@@ -1,4 +1,4 @@
-# 3T (Transformer Emergence Equation)
+# Triame(3T)
 
 **Author:** Brian Pham/Phạm Ngọc Thanh Nhân  
 **Contact:** nhanpnt22@gmail.com and thanhnhan@vietta.vn  
@@ -8,7 +8,7 @@
 
 ## Overview
 
-The **3T (Transformer Emergence Equation)** defines how the transformer (C) emerges from the summed tensor product of elements A and B:
+The **Triame(3T)** defines how the transformer (C) emerges from the summed tensor product of elements A and B:
 
 ```
 C = ∑[B⊗A]
@@ -18,8 +18,11 @@ This model provides a new theoretical framework for understanding how mediating 
 
 ## Files
 
-- `theory/Triad.md` — Parent Triad and Mathematical Formulation
-- `theory/3T.md` — 3T Applied Framework
+- `theory/3T-Mathematical Formulation.md` — Parent Triad and Mathematical Formulation
+- `theory/3T.md` — 3T Thoery
+- `framework/3-Strategic Framework.md` — 3T Strategic Framework
+- `framework/3T-Apply.md` — 3T Applied Framework
+
 - `LICENSE` — License information
 
 ## License

@@ -1,4 +1,4 @@
-Name: 3T (Transformer Emergence Equation)
+Name: 3T Triame(3T)
 Author: Brian Pham/Phạm Ngọc Thanh Nhân
 Email: nhanpnt22@gmail.com and thanhnhan@vietta.vn
 
