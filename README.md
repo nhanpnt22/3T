@@ -18,7 +18,8 @@ This model provides a new theoretical framework for understanding how mediating 
 
 ## Files
 
-- `theory/3C.md` — Main theory and formulation
+- `theory/Triad.md` — Parent Triad and Mathematical Formulation
+- `theory/3T.md` — 3T Applied Framework
 - `LICENSE` — License information
 
 ## License
